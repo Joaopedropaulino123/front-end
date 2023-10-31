@@ -1,0 +1,13 @@
+.header{
+    background-color: gray;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.menu{
+    font-size: 24px;
+    font-family: verdana;
+    color: black;
+    font-weight: bolder;
+}
